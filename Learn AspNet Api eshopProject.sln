@@ -7,12 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eShopsoluction.Web.Api", "e
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7441ADFA-DF57-462B-AEAC-78472A8DEB5E}"
 	ProjectSection(SolutionItems) = preProject
+		customer request.xlsx = customer request.xlsx
 		Readme.md = Readme.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eShopSolution.Data", "eShopSolution.Data\eShopSolution.Data.csproj", "{89FB8237-4B72-424E-A434-D1FB4DB0ED90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eShopSolution.Data", "eShopSolution.Data\eShopSolution.Data.csproj", "{89FB8237-4B72-424E-A434-D1FB4DB0ED90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eShopSolution.Application", "eShopSolution.Application\eShopSolution.Application.csproj", "{916C472B-ADF9-4D89-B715-B3F407FC7224}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eShopSolution.Application", "eShopSolution.Application\eShopSolution.Application.csproj", "{916C472B-ADF9-4D89-B715-B3F407FC7224}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
